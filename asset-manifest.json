@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.39e11838.css",
-    "main.js": "/static/js/main.5298c6c6.js",
+    "main.css": "/static/css/main.d4409dff.css",
+    "main.js": "/static/js/main.c2a496bd.js",
     "static/js/453.ab4a6312.chunk.js": "/static/js/453.ab4a6312.chunk.js",
     "static/media/alta_regular-webfont.woff": "/static/media/alta_regular-webfont.8152f49ee5c48688616e.woff",
     "index.html": "/index.html",
-    "main.39e11838.css.map": "/static/css/main.39e11838.css.map",
-    "main.5298c6c6.js.map": "/static/js/main.5298c6c6.js.map",
+    "main.d4409dff.css.map": "/static/css/main.d4409dff.css.map",
+    "main.c2a496bd.js.map": "/static/js/main.c2a496bd.js.map",
     "453.ab4a6312.chunk.js.map": "/static/js/453.ab4a6312.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.39e11838.css",
-    "static/js/main.5298c6c6.js"
+    "static/css/main.d4409dff.css",
+    "static/js/main.c2a496bd.js"
   ]
 }
